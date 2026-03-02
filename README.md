@@ -1,2 +1,3 @@
-# spsp2026
-Material for the SPSP symposium titled "Large Language Models and the Future of Social Psychological Science"
+# Materials for the SPSP 2026 symposium "Large Language Models and the Future of Social Psychological Science"
+
+Updates coming soon!
